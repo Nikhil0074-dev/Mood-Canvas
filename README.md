@@ -220,9 +220,9 @@ Configure `MOOD_DB` to use durable storage and set `CORS_ORIGINS` to the deploye
 
 ## Screenshots
 
-Screenshots are stored in `docs/screenshots/`. To regenerate them, build and serve the frontend, then run `docs/take_screenshots.py`. The script requires Playwright and an installed Chromium browser; install those separately before running it.
+Screenshots are stored in `screenshots/`. 
 
-![Empty canvas](docs/screenshots/01-empty.png)
-![Calm board](docs/screenshots/02-calm-board.png)
-![Playing](docs/screenshots/03-playing.png)
-![Energetic update](docs/screenshots/04-energetic-update.png)
+![Empty canvas](screenshots/01-empty.png)
+![Calm board](screenshots/02-calm-board.png)
+![Playing](screenshots/03-playing.png)
+![Energetic update](screenshots/04-energetic-update.png)
